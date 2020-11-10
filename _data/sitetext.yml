@@ -27,8 +27,8 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Project Timeline" 
+    text: "To give you an idea where we want to go in 2021!"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -53,8 +53,9 @@ timeline:
     end: "Be Part <br> of Our <br> Story!"
 
 about:
-    title: "About Us"
-    text: "our story"
+    title: "The Project"
+    text: "We want this project to showcase unyielding passion, love, and respect for Indigenous cultures using tabletop roleplaying games as a medium. Across the hobby’s history, many Indigenous cultures, lore, and history have been poorly represented and used as an instrument of misrepresentation by White writers’ narratives. Most importantly, we want this project to showcase Indigenous creators who want to have their personal stories told.
+<br/>We recognize that projects and efforts like this have a long history of connection to “white savior” ideas and to the academisation of Native histories and cultural elements. Our priority here is not to publish our own games or to gain recognition for having done one “woke” thing, but to tell stories that we believe are important."
     section: about
 
 clients:
@@ -113,8 +114,8 @@ team:
             icon: far fa-envelope
           
 contact:
-    title: "Contact Us"
-    text: hydroforgerpg@gmail.com
+    title: "Sign Up"
+    text: Join the mailing list to hear about project updates and the upcoming Kickstarter campaign.
     section: contact
     
 footer:
