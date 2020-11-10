@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Landing Page!
-    text: To keep up to date about announcements for this project, please join the mailing list!
+    title: To keep up to date about announcements for this project, please join the mailing list!
+    text: Welcome!
     button: Sign Up
     buttonlink: "#contact"
 
@@ -87,30 +87,30 @@ team:
         social:
           - url: https://twitter.com/hydroforge
             icon: fab fa-twitter
+          - url: https://hydroforge.itch.io
+            icon: fab fa-itch-io
           - url: mailto:hydroforgerpg@gmail.com
             icon: far fa-envelope
-          - url: https://linkedin.com/maxfefer
-            icon: fab fa-linkedin-in
       - name: "Riana Elliot"
         role: "Project Co-Lead/Writer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/riana.jpg
         social:
           - url: https://twitter.com/DIYferret
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: rianaelliott@gmail.com
+            icon: far fa-envelope
       - name: "Theo Rusmore"
         role: "Editor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/theo.jpg
         social:
           - url: https://twitter.com/TheChemGM1
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://mrexplorerguy.itch.io/
+            icon: fab fa-itch-io
+          - url: mailto:theo.rusmore@gmail.com
+            icon: far fa-envelope
           
 contact:
     title: "Contact Us"
