@@ -1,8 +1,8 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to our Landing Page!
+    text: To keep up to date about announcements for this project, please join the mailing list!
+    button: Sign Up
+    buttonlink: "#contact"
 
 services:
     title: "Services"
@@ -82,35 +82,35 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Learn more about each person on our leadership team."
+    subtext: We look forward to adding our writers, editors, artist to this section.  **If you are an Indigenous creator (writer, editor, artist, graphic/layout designer, or cultural consultant,** contact Max Fefer.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Max Fefer"
+        role: "Project Co-Lead/Writer"
+        image: assets/img/team/max.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/hydroforge
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: mailto:hydroforgerpg@gmail.com
+            icon: far fa-envelope
+          - url: https://linkedin.com/maxfefer
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Riana Elliot"
+        role: "Project Co-Lead/Writer"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/DIYferret
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Theo Rusmore"
+        role: "Editor"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/TheChemGM1
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
@@ -119,13 +119,13 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: hydroforgerpg@gmail.com
     section: contact
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/hydroforge
         icon: "fab fa-twitter"  
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
