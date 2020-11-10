@@ -1,12 +1,12 @@
 nav:
   - title: "The Project"
     section: about
-    
-  - title: "Timeline"
-    section: timeline
-
+ 
   - title: "Team"
     section: team
+ 
+  - title: "Timeline"
+    section: timeline
 
   - title: "Contact"
     section: contact
